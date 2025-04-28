@@ -1,5 +1,5 @@
 # Gary Pacheco - @LSPhantom - Extensive Project List
----
+
 ## COMET 10-Yr Development Recap
 - PSIF Climate Risk Portal (2025):
     - Unset.
@@ -56,15 +56,22 @@
 
 ---
 
-## Lime Stripes Creative Studio, LLC
+## Lime Stripes Creative Studio - 
 - ATS Auto Detail & Sales, LLC
-  - Frontend dev (React JS)
-  - Backend dev (Wordpress)
+  - Frontend dev with React
+  - Backend dev with Wordpress and MySQL
+  - Hosting and dev ops
+  - Business strategy and performance optimization
 - Car Title Services, LLC
-  -  Web dev, hosting (React JS)
+  -  Frontend dev with React
+  -  Hosting and dev ops
 - Chapel Haven SDA
-  - Web dev, hosting (Wordpress)
+  - Fullstack engineering with Wordpress and MySQL
+  - Hosting and dev ops
 - RV Glass Specialties, LLC
-  - Branding, print media
-- Antsy Labs
-  - Web consulting, branding, illustration, graphic design
+  - Branding, print media development
+- Antsy Labs, LLC
+  - Web consulting, branding, illustration, graphic design and prototyping
+- DeskEnvy, LLC
+  - Frontend dev with React
+  - Backend dev with Wordpress and MySQL

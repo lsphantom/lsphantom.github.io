@@ -8,7 +8,7 @@ In the early parts of my career development, I've had the opportunity to work in
 I love being a jack-of-all trades while mastering the skills that I enjoy utilizing the most.
 On my spare time I like to spend time with family and friends, and doing things that are mostly not screen related; so I enjoy the beach, mountains, working on cars, building things with my hands, exploring new music, and grilling delicious Latin American foods.
 
-Here are some of the things I've been busy
+Here are some of the things I've been busy with:
 
 ---
 ## UCAR - COMET | 10-Year Project Recap
